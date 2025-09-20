@@ -1,1 +1,0 @@
-# foodmate_android
