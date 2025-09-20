@@ -1,0 +1,730 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:44:9-53:20
+	android:grantUriPermissions
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:47:13-47
+	android:authorities
+		INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:46:13-60
+	android:exported
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:45:13-62
+manifest
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:2:1-72:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/325d7870650035c62fc6d50ade5064bf/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bc75a4765cf0b1ec82b77f7c14a95d50/transformed/constraintlayout-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/acada72eb173a2672711d2f3cf169d74/transformed/coil-compose-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/6acb26cac51b5cfaabe3ffabc2de5116/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/4abb3d419bfb70794fce49f582abf1bc/transformed/coil-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/5fbe34a37e23ea2722a55dc4673b5063/transformed/coil-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c88da9349da73973fd0e29ae63c2d991/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ad8888d7f7d523427ffb36a15590a759/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/730242a599326ec0c9e7910a9124ed70/transformed/hilt-navigation-compose-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8fe3fc6caaf3062ca10244c4afb8f3c9/transformed/hilt-navigation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.48] /Users/ashrafulislam/.gradle/caches/8.9/transforms/703ffd127f270a6f12fe30562e36568c/transformed/hilt-android-2.48/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.maps.android:maps-compose:2.11.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ddaf02f5c3cb47d9c542443b8ae43313/transformed/maps-compose-2.11.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:maps-ktx:3.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c52ebb334de270a699fc4cdeaf72545d/transformed/maps-ktx-3.3.0/AndroidManifest.xml:18:1-25:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/09f03fda3a77f71b8a6f53b11eca1661/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3dbc85e682f44ce822bec42eb586b6d2/transformed/play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/15175450bc1d218ab8b3903c9480b650/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9501933fa409d67d8c75e1b0389ba2fe/transformed/play-services-ads-identifier-18.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-stats:17.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/2153e4b87832b245c6d8ffb8f9823c68/transformed/play-services-stats-17.1.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8abce6f2fb0f1ecaac9790c45efdd54a/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7af435d13fc4fa1ddfc5b3bc8ad16315/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/ashrafulislam/.gradle/caches/8.9/transforms/4e7da12075c29e46c2da0dd85d3f905c/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/70d0cd5af602ff52fb34b4a23cf71acd/transformed/navigation-common-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/e306df9dfd9fe129731790cf80d3f20a/transformed/navigation-runtime-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/12d2474675cc51ad9d01d20647e228af/transformed/navigation-common-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/5533e30c225fad38cdd183969cd7f2f9/transformed/navigation-runtime-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/825355d198cc718d67354d5ed3b37e20/transformed/navigation-compose-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.32.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/eb15312c07ccdb8e2dba42da52b67938/transformed/accompanist-systemuicontroller-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bf941e58284b32502b070a67d2ef7cb4/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.30.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/55a07ddda484c0bb3c9e7883010a9494/transformed/accompanist-pager-indicators-0.30.1/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/e8608f8a7d9aa423fb966077116628fc/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ce1e0c6496a1b100d20e2e67faf227b4/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d11d4be429ef7eec45c4d7949cc3ace8/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-pager:0.30.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/adcbae078ace2fbfb7798ed36624979e/transformed/accompanist-pager-0.30.1/AndroidManifest.xml:17:1-25:12
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/01fe81b4b5314303144a145722746feb/transformed/snapper-0.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7a807282c814709f6f655a759619ec9c/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/cd6f8edcc8bf8fa2be118b3cfb0ca7bf/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f1ce00284e0a12ae1cbd0f3db86ad4d6/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fdd70964e1620fd923d3d32da50f9035/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/91f1a64a1732ea99e3bb5473c8345f4a/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a4646c0d0c379f640db13b421145b2f8/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f8678baa42dea9688f2ffa8d4858a91f/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/825533c2aa7366982765e7e737019b4f/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f67b223d4823dc0d7e8007368657249c/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/020a9c7dbfb61e91536353f411238f7c/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bb9285b0a54ebee467870a7bff6faa81/transformed/ui-test-manifest-1.7.2/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fe768ec35e7ac55ff31c469ca0783bb8/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.6.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c212763af76be8549cf19281bed67ea0/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fa488432be5607473d225048c8d6714d/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3173b6724b5ab8b5f14c259d9c795640/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d01090f1759d659f9f1750a326529563/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f260e7e8f7955fd1f11d85f437ae4e1a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8138649f3b7680516c80c9af2ae8b8fe/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/38789156d99b463829129b2e492ca02b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c20a9b477550925b6505b1c5075e6ce5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/44391b0a1a3d6c1ecf8f8908253cf299/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f6fc3c1cad73bfebab7aa6cfe8d4dc76/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/caec236ca2da589cb35493ee8254b0e1/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/32c313c761c934b0b3db21c948d87cce/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a9b4de42d12219e563d1295931e1d0f1/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/380e1f1a96ff6ee21362890bd22db293/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/19970ac387cafc725f7acaa67318d993/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/00668b2a350cd45044288b0b29d12aef/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/eb045204e849fa57ab1856672d77b159/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9f79782694b464e444af150eded8d96e/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/de1c77afd15d20c72275e7bc3a08ec55/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/774fff1c9ae5841d4a43ccad6032c998/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/16e8f6c52ecfc1ecad369f6249a03a95/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/0bb6684f727467e315adb5beb10f54af/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/55f6920eb61993947876ce789d9378b9/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a0460380185c287127d303fc7732bf37/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8a4e9081ba8df3255208f118dddd3a55/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c6a51c61cc6a10b56691a0b68d8a1054/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7cd2d2078a6bf07989d9a40389b3bced/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/2852ebb1bb8711e23c9d9f405de9061b/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/68ef5bc14e1b9a46a20dcec2a24270eb/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d1ecab5ade6ffcefbcf389b1f68372fb/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8b1e1d795163e47be4c5cb14eadb8a99/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/6872c3681025e0cd9c93afd93c3ad501/transformed/activity-ktx-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9150ff1a7e61376e94c3e698348aa151/transformed/activity-compose-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.10.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/0d3fa7bb7bb24ee4682f0cce1d0d62b8/transformed/activity-1.10.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/10c3bccc32f5baa9ed6df1ced2ea3122/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ca02bb500811392d842dcaf819ab691a/transformed/core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d5e221d03fb6b20592d9da0a65d58c23/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/5ba3b96b18bf93101654aec7ac57264a/transformed/room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/cf6f46e675a4aeae1274dedef95868e9/transformed/datastore-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/580bd19460a6d807846c385858b42d99/transformed/datastore-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/085742efe51eadced5a5a8ae22e8cd76/transformed/datastore-preferences-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/48e7317e55107b87e4d19f09d89af5a2/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f8974fec0b4776b5bbbb253d2f102335/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ffebe3f0e5eec452a707c55459664eda/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/89d55a55b2a7074f9fb5284b6aa65587/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/90024269e19e337b0b0bb935a4c73128/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/62211d6d2777ade2f273f7a0d65e2b0d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/73bcb9f621a56e2627a23d87a9a2a977/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7018d884f39fa94d56424117a544ff62/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/781e46a1f33016ce601d7a47ef1829c7/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a1e9450ed3bd8cab7920499f812c05bb/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c25408affb9db9f04624998a7b22bd19/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/af22b5137ff0245d25efba4676e64032/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3616dcad155e5a4f4e3c824507323767/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/26e47bf89f594182e2ce57e0b1e1bf59/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d9ebd04e7609029c720c6b855ac6af9b/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c7aa3344504b31fbebd27b6c76df2869/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/6730e5a3f68eca9e26082b79062f3a77/transformed/napier-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar.sceneform:core:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3bf64bb3a152501cd44ebfdcd6cbd8ef/transformed/core-1.17.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c25053f38325c09f5696a118a44d19aa/transformed/threetenabp-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.ar.sceneform:rendering:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7b856f2aec3944ca59a533c7b344e123/transformed/rendering-1.17.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/85f9282c28890f3f4d697030319bbf50/transformed/sceneform-base-1.17.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:filament-android:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/500210a21112bb4faaab418619394a4b/transformed/filament-android-1.17.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f5848b92188d53d13b5855ed72de3c40/transformed/dagger-lint-aar-2.48/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:17:1-46:12
+	package
+		INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:6:9-47
+uses-feature#android.hardware.telephony
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:9:9-50
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:12:5-66
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:15:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:16:22-69
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:18:5-110
+	tools:ignore
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:18:79-107
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:19:22-77
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:20:22-66
+application
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:27:5-69:19
+INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:27:5-69:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/325d7870650035c62fc6d50ade5064bf/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/325d7870650035c62fc6d50ade5064bf/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bc75a4765cf0b1ec82b77f7c14a95d50/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bc75a4765cf0b1ec82b77f7c14a95d50/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3dbc85e682f44ce822bec42eb586b6d2/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3dbc85e682f44ce822bec42eb586b6d2/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/15175450bc1d218ab8b3903c9480b650/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/15175450bc1d218ab8b3903c9480b650/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9501933fa409d67d8c75e1b0389ba2fe/transformed/play-services-ads-identifier-18.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9501933fa409d67d8c75e1b0389ba2fe/transformed/play-services-ads-identifier-18.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/2153e4b87832b245c6d8ffb8f9823c68/transformed/play-services-stats-17.1.0/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/2153e4b87832b245c6d8ffb8f9823c68/transformed/play-services-stats-17.1.0/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8abce6f2fb0f1ecaac9790c45efdd54a/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8abce6f2fb0f1ecaac9790c45efdd54a/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7af435d13fc4fa1ddfc5b3bc8ad16315/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7af435d13fc4fa1ddfc5b3bc8ad16315/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bb9285b0a54ebee467870a7bff6faa81/transformed/ui-test-manifest-1.7.2/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bb9285b0a54ebee467870a7bff6faa81/transformed/ui-test-manifest-1.7.2/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fe768ec35e7ac55ff31c469ca0783bb8/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fe768ec35e7ac55ff31c469ca0783bb8/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c6a51c61cc6a10b56691a0b68d8a1054/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c6a51c61cc6a10b56691a0b68d8a1054/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d5e221d03fb6b20592d9da0a65d58c23/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d5e221d03fb6b20592d9da0a65d58c23/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7018d884f39fa94d56424117a544ff62/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7018d884f39fa94d56424117a544ff62/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c25408affb9db9f04624998a7b22bd19/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c25408affb9db9f04624998a7b22bd19/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c25053f38325c09f5696a118a44d19aa/transformed/threetenabp-1.3.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c25053f38325c09f5696a118a44d19aa/transformed/threetenabp-1.3.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:30:5-44:19
+	android:extractNativeLibs
+		INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml
+	android:windowSoftInputMode
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:40:9-51
+	android:roundIcon
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:35:9-54
+	android:icon
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:33:9-43
+	android:networkSecurityConfig
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:38:9-69
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:36:9-35
+	android:label
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:34:9-41
+	android:fullBackupContent
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:32:9-54
+	tools:targetApi
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:41:9-29
+	android:allowBackup
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:37:9-46
+	android:enableOnBackInvokedCallback
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:29:9-51
+	android:dataExtractionRules
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:31:9-65
+	android:usesCleartextTraffic
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:39:9-44
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:28:9-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:54:9-56:70
+	android:value
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:56:13-68
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:55:13-58
+activity#com.food.foodmate.activity.MainActivity
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:59:9-68:20
+	android:label
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:62:13-45
+	android:exported
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:61:13-36
+	android:theme
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:63:13-50
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:60:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:64:13-67:29
+action#android.intent.action.MAIN
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:65:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:66:17-77
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:66:27-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:49:13-52:19
+	android:resource
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:51:17-51
+	android:name
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:50:17-67
+uses-sdk
+INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/325d7870650035c62fc6d50ade5064bf/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/325d7870650035c62fc6d50ade5064bf/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bc75a4765cf0b1ec82b77f7c14a95d50/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bc75a4765cf0b1ec82b77f7c14a95d50/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/acada72eb173a2672711d2f3cf169d74/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/acada72eb173a2672711d2f3cf169d74/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/6acb26cac51b5cfaabe3ffabc2de5116/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/6acb26cac51b5cfaabe3ffabc2de5116/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/4abb3d419bfb70794fce49f582abf1bc/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/4abb3d419bfb70794fce49f582abf1bc/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/5fbe34a37e23ea2722a55dc4673b5063/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/5fbe34a37e23ea2722a55dc4673b5063/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c88da9349da73973fd0e29ae63c2d991/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c88da9349da73973fd0e29ae63c2d991/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ad8888d7f7d523427ffb36a15590a759/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ad8888d7f7d523427ffb36a15590a759/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/730242a599326ec0c9e7910a9124ed70/transformed/hilt-navigation-compose-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/730242a599326ec0c9e7910a9124ed70/transformed/hilt-navigation-compose-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8fe3fc6caaf3062ca10244c4afb8f3c9/transformed/hilt-navigation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8fe3fc6caaf3062ca10244c4afb8f3c9/transformed/hilt-navigation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.48] /Users/ashrafulislam/.gradle/caches/8.9/transforms/703ffd127f270a6f12fe30562e36568c/transformed/hilt-android-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.48] /Users/ashrafulislam/.gradle/caches/8.9/transforms/703ffd127f270a6f12fe30562e36568c/transformed/hilt-android-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.google.maps.android:maps-compose:2.11.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ddaf02f5c3cb47d9c542443b8ae43313/transformed/maps-compose-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:maps-compose:2.11.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ddaf02f5c3cb47d9c542443b8ae43313/transformed/maps-compose-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:maps-ktx:3.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c52ebb334de270a699fc4cdeaf72545d/transformed/maps-ktx-3.3.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.maps.android:maps-ktx:3.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c52ebb334de270a699fc4cdeaf72545d/transformed/maps-ktx-3.3.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/09f03fda3a77f71b8a6f53b11eca1661/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/09f03fda3a77f71b8a6f53b11eca1661/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3dbc85e682f44ce822bec42eb586b6d2/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3dbc85e682f44ce822bec42eb586b6d2/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/15175450bc1d218ab8b3903c9480b650/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/15175450bc1d218ab8b3903c9480b650/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9501933fa409d67d8c75e1b0389ba2fe/transformed/play-services-ads-identifier-18.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9501933fa409d67d8c75e1b0389ba2fe/transformed/play-services-ads-identifier-18.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/2153e4b87832b245c6d8ffb8f9823c68/transformed/play-services-stats-17.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/2153e4b87832b245c6d8ffb8f9823c68/transformed/play-services-stats-17.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8abce6f2fb0f1ecaac9790c45efdd54a/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8abce6f2fb0f1ecaac9790c45efdd54a/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7af435d13fc4fa1ddfc5b3bc8ad16315/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7af435d13fc4fa1ddfc5b3bc8ad16315/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/ashrafulislam/.gradle/caches/8.9/transforms/4e7da12075c29e46c2da0dd85d3f905c/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/ashrafulislam/.gradle/caches/8.9/transforms/4e7da12075c29e46c2da0dd85d3f905c/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/70d0cd5af602ff52fb34b4a23cf71acd/transformed/navigation-common-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/70d0cd5af602ff52fb34b4a23cf71acd/transformed/navigation-common-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/e306df9dfd9fe129731790cf80d3f20a/transformed/navigation-runtime-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/e306df9dfd9fe129731790cf80d3f20a/transformed/navigation-runtime-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/12d2474675cc51ad9d01d20647e228af/transformed/navigation-common-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/12d2474675cc51ad9d01d20647e228af/transformed/navigation-common-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/5533e30c225fad38cdd183969cd7f2f9/transformed/navigation-runtime-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/5533e30c225fad38cdd183969cd7f2f9/transformed/navigation-runtime-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/825355d198cc718d67354d5ed3b37e20/transformed/navigation-compose-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/825355d198cc718d67354d5ed3b37e20/transformed/navigation-compose-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.32.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/eb15312c07ccdb8e2dba42da52b67938/transformed/accompanist-systemuicontroller-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.32.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/eb15312c07ccdb8e2dba42da52b67938/transformed/accompanist-systemuicontroller-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bf941e58284b32502b070a67d2ef7cb4/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bf941e58284b32502b070a67d2ef7cb4/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.30.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/55a07ddda484c0bb3c9e7883010a9494/transformed/accompanist-pager-indicators-0.30.1/AndroidManifest.xml:21:5-23:42
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.30.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/55a07ddda484c0bb3c9e7883010a9494/transformed/accompanist-pager-indicators-0.30.1/AndroidManifest.xml:21:5-23:42
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/e8608f8a7d9aa423fb966077116628fc/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/e8608f8a7d9aa423fb966077116628fc/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ce1e0c6496a1b100d20e2e67faf227b4/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ce1e0c6496a1b100d20e2e67faf227b4/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d11d4be429ef7eec45c4d7949cc3ace8/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d11d4be429ef7eec45c4d7949cc3ace8/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-pager:0.30.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/adcbae078ace2fbfb7798ed36624979e/transformed/accompanist-pager-0.30.1/AndroidManifest.xml:21:5-23:42
+MERGED from [com.google.accompanist:accompanist-pager:0.30.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/adcbae078ace2fbfb7798ed36624979e/transformed/accompanist-pager-0.30.1/AndroidManifest.xml:21:5-23:42
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/01fe81b4b5314303144a145722746feb/transformed/snapper-0.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/01fe81b4b5314303144a145722746feb/transformed/snapper-0.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7a807282c814709f6f655a759619ec9c/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7a807282c814709f6f655a759619ec9c/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/cd6f8edcc8bf8fa2be118b3cfb0ca7bf/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/cd6f8edcc8bf8fa2be118b3cfb0ca7bf/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f1ce00284e0a12ae1cbd0f3db86ad4d6/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f1ce00284e0a12ae1cbd0f3db86ad4d6/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fdd70964e1620fd923d3d32da50f9035/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fdd70964e1620fd923d3d32da50f9035/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/91f1a64a1732ea99e3bb5473c8345f4a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/91f1a64a1732ea99e3bb5473c8345f4a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a4646c0d0c379f640db13b421145b2f8/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a4646c0d0c379f640db13b421145b2f8/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f8678baa42dea9688f2ffa8d4858a91f/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f8678baa42dea9688f2ffa8d4858a91f/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/825533c2aa7366982765e7e737019b4f/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/825533c2aa7366982765e7e737019b4f/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f67b223d4823dc0d7e8007368657249c/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f67b223d4823dc0d7e8007368657249c/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/020a9c7dbfb61e91536353f411238f7c/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/020a9c7dbfb61e91536353f411238f7c/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bb9285b0a54ebee467870a7bff6faa81/transformed/ui-test-manifest-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bb9285b0a54ebee467870a7bff6faa81/transformed/ui-test-manifest-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fe768ec35e7ac55ff31c469ca0783bb8/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fe768ec35e7ac55ff31c469ca0783bb8/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c212763af76be8549cf19281bed67ea0/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c212763af76be8549cf19281bed67ea0/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fa488432be5607473d225048c8d6714d/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fa488432be5607473d225048c8d6714d/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3173b6724b5ab8b5f14c259d9c795640/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3173b6724b5ab8b5f14c259d9c795640/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d01090f1759d659f9f1750a326529563/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d01090f1759d659f9f1750a326529563/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f260e7e8f7955fd1f11d85f437ae4e1a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f260e7e8f7955fd1f11d85f437ae4e1a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8138649f3b7680516c80c9af2ae8b8fe/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8138649f3b7680516c80c9af2ae8b8fe/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/38789156d99b463829129b2e492ca02b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/38789156d99b463829129b2e492ca02b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c20a9b477550925b6505b1c5075e6ce5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c20a9b477550925b6505b1c5075e6ce5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/44391b0a1a3d6c1ecf8f8908253cf299/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/44391b0a1a3d6c1ecf8f8908253cf299/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f6fc3c1cad73bfebab7aa6cfe8d4dc76/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f6fc3c1cad73bfebab7aa6cfe8d4dc76/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/caec236ca2da589cb35493ee8254b0e1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/caec236ca2da589cb35493ee8254b0e1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/32c313c761c934b0b3db21c948d87cce/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/32c313c761c934b0b3db21c948d87cce/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a9b4de42d12219e563d1295931e1d0f1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a9b4de42d12219e563d1295931e1d0f1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/380e1f1a96ff6ee21362890bd22db293/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/380e1f1a96ff6ee21362890bd22db293/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/19970ac387cafc725f7acaa67318d993/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/19970ac387cafc725f7acaa67318d993/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/00668b2a350cd45044288b0b29d12aef/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/00668b2a350cd45044288b0b29d12aef/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/eb045204e849fa57ab1856672d77b159/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/eb045204e849fa57ab1856672d77b159/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9f79782694b464e444af150eded8d96e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9f79782694b464e444af150eded8d96e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/de1c77afd15d20c72275e7bc3a08ec55/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/de1c77afd15d20c72275e7bc3a08ec55/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/774fff1c9ae5841d4a43ccad6032c998/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/774fff1c9ae5841d4a43ccad6032c998/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/16e8f6c52ecfc1ecad369f6249a03a95/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/16e8f6c52ecfc1ecad369f6249a03a95/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/0bb6684f727467e315adb5beb10f54af/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/0bb6684f727467e315adb5beb10f54af/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/55f6920eb61993947876ce789d9378b9/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/55f6920eb61993947876ce789d9378b9/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a0460380185c287127d303fc7732bf37/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a0460380185c287127d303fc7732bf37/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8a4e9081ba8df3255208f118dddd3a55/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8a4e9081ba8df3255208f118dddd3a55/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c6a51c61cc6a10b56691a0b68d8a1054/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c6a51c61cc6a10b56691a0b68d8a1054/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7cd2d2078a6bf07989d9a40389b3bced/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7cd2d2078a6bf07989d9a40389b3bced/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/2852ebb1bb8711e23c9d9f405de9061b/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/2852ebb1bb8711e23c9d9f405de9061b/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/68ef5bc14e1b9a46a20dcec2a24270eb/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/68ef5bc14e1b9a46a20dcec2a24270eb/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d1ecab5ade6ffcefbcf389b1f68372fb/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d1ecab5ade6ffcefbcf389b1f68372fb/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8b1e1d795163e47be4c5cb14eadb8a99/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/8b1e1d795163e47be4c5cb14eadb8a99/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/6872c3681025e0cd9c93afd93c3ad501/transformed/activity-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/6872c3681025e0cd9c93afd93c3ad501/transformed/activity-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9150ff1a7e61376e94c3e698348aa151/transformed/activity-compose-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9150ff1a7e61376e94c3e698348aa151/transformed/activity-compose-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.10.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/0d3fa7bb7bb24ee4682f0cce1d0d62b8/transformed/activity-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/0d3fa7bb7bb24ee4682f0cce1d0d62b8/transformed/activity-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/10c3bccc32f5baa9ed6df1ced2ea3122/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/10c3bccc32f5baa9ed6df1ced2ea3122/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ca02bb500811392d842dcaf819ab691a/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ca02bb500811392d842dcaf819ab691a/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d5e221d03fb6b20592d9da0a65d58c23/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d5e221d03fb6b20592d9da0a65d58c23/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/5ba3b96b18bf93101654aec7ac57264a/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/5ba3b96b18bf93101654aec7ac57264a/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/cf6f46e675a4aeae1274dedef95868e9/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/cf6f46e675a4aeae1274dedef95868e9/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/580bd19460a6d807846c385858b42d99/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/580bd19460a6d807846c385858b42d99/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/085742efe51eadced5a5a8ae22e8cd76/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/085742efe51eadced5a5a8ae22e8cd76/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/48e7317e55107b87e4d19f09d89af5a2/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/48e7317e55107b87e4d19f09d89af5a2/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f8974fec0b4776b5bbbb253d2f102335/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f8974fec0b4776b5bbbb253d2f102335/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ffebe3f0e5eec452a707c55459664eda/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ffebe3f0e5eec452a707c55459664eda/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/89d55a55b2a7074f9fb5284b6aa65587/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/89d55a55b2a7074f9fb5284b6aa65587/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/90024269e19e337b0b0bb935a4c73128/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/90024269e19e337b0b0bb935a4c73128/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/62211d6d2777ade2f273f7a0d65e2b0d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/62211d6d2777ade2f273f7a0d65e2b0d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/73bcb9f621a56e2627a23d87a9a2a977/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/73bcb9f621a56e2627a23d87a9a2a977/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7018d884f39fa94d56424117a544ff62/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7018d884f39fa94d56424117a544ff62/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/781e46a1f33016ce601d7a47ef1829c7/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/781e46a1f33016ce601d7a47ef1829c7/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a1e9450ed3bd8cab7920499f812c05bb/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/a1e9450ed3bd8cab7920499f812c05bb/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c25408affb9db9f04624998a7b22bd19/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c25408affb9db9f04624998a7b22bd19/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/af22b5137ff0245d25efba4676e64032/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/af22b5137ff0245d25efba4676e64032/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3616dcad155e5a4f4e3c824507323767/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3616dcad155e5a4f4e3c824507323767/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/26e47bf89f594182e2ce57e0b1e1bf59/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/26e47bf89f594182e2ce57e0b1e1bf59/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d9ebd04e7609029c720c6b855ac6af9b/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d9ebd04e7609029c720c6b855ac6af9b/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c7aa3344504b31fbebd27b6c76df2869/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c7aa3344504b31fbebd27b6c76df2869/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/6730e5a3f68eca9e26082b79062f3a77/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/6730e5a3f68eca9e26082b79062f3a77/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:core:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3bf64bb3a152501cd44ebfdcd6cbd8ef/transformed/core-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3bf64bb3a152501cd44ebfdcd6cbd8ef/transformed/core-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c25053f38325c09f5696a118a44d19aa/transformed/threetenabp-1.3.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c25053f38325c09f5696a118a44d19aa/transformed/threetenabp-1.3.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7b856f2aec3944ca59a533c7b344e123/transformed/rendering-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7b856f2aec3944ca59a533c7b344e123/transformed/rendering-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/85f9282c28890f3f4d697030319bbf50/transformed/sceneform-base-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/85f9282c28890f3f4d697030319bbf50/transformed/sceneform-base-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/500210a21112bb4faaab418619394a4b/transformed/filament-android-1.17.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.17.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/500210a21112bb4faaab418619394a4b/transformed/filament-android-1.17.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f5848b92188d53d13b5855ed72de3c40/transformed/dagger-lint-aar-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /Users/ashrafulislam/.gradle/caches/8.9/transforms/f5848b92188d53d13b5855ed72de3c40/transformed/dagger-lint-aar-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:26:5-28:41
+	android:targetSdkVersion
+		INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.google.accompanist:accompanist-pager-indicators:0.30.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/55a07ddda484c0bb3c9e7883010a9494/transformed/accompanist-pager-indicators-0.30.1/AndroidManifest.xml:23:9-39
+	android:minSdkVersion
+		INJECTED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/1f338e58044e3e4f01683949ee9b5e63/transformed/play-services-maps-18.2.0/AndroidManifest.xml:40:13-50
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:27:22-65
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:28:5-97
+MERGED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+MERGED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:28:22-94
+uses-permission#com.food.foodmate.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:28:5-97
+MERGED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+MERGED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics-impl:18.2.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ec6f48f15aa4e7a8941bc9dfcb46e436/transformed/play-services-analytics-impl-18.2.0/AndroidManifest.xml:28:22-94
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/15175450bc1d218ab8b3903c9480b650/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/15175450bc1d218ab8b3903c9480b650/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/15175450bc1d218ab8b3903c9480b650/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/15175450bc1d218ab8b3903c9480b650/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-ads-identifier:18.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9501933fa409d67d8c75e1b0389ba2fe/transformed/play-services-ads-identifier-18.1.0/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-identifier:18.1.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/9501933fa409d67d8c75e1b0389ba2fe/transformed/play-services-ads-identifier-18.1.0/AndroidManifest.xml:7:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7af435d13fc4fa1ddfc5b3bc8ad16315/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7af435d13fc4fa1ddfc5b3bc8ad16315/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7af435d13fc4fa1ddfc5b3bc8ad16315/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bb9285b0a54ebee467870a7bff6faa81/transformed/ui-test-manifest-1.7.2/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bb9285b0a54ebee467870a7bff6faa81/transformed/ui-test-manifest-1.7.2/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/bb9285b0a54ebee467870a7bff6faa81/transformed/ui-test-manifest-1.7.2/AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fe768ec35e7ac55ff31c469ca0783bb8/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fe768ec35e7ac55ff31c469ca0783bb8/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/ashrafulislam/.gradle/caches/8.9/transforms/fe768ec35e7ac55ff31c469ca0783bb8/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c6a51c61cc6a10b56691a0b68d8a1054/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c6a51c61cc6a10b56691a0b68d8a1054/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7018d884f39fa94d56424117a544ff62/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/7018d884f39fa94d56424117a544ff62/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d70ab94fa5c79075751ea3b50294bea6/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#com.food.foodmate.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/71d7c57741e18cdc151f36b03da1be0a/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c6a51c61cc6a10b56691a0b68d8a1054/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c6a51c61cc6a10b56691a0b68d8a1054/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ashrafulislam/.gradle/caches/8.9/transforms/c6a51c61cc6a10b56691a0b68d8a1054/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d5e221d03fb6b20592d9da0a65d58c23/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d5e221d03fb6b20592d9da0a65d58c23/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d5e221d03fb6b20592d9da0a65d58c23/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d5e221d03fb6b20592d9da0a65d58c23/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ashrafulislam/.gradle/caches/8.9/transforms/d5e221d03fb6b20592d9da0a65d58c23/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/3d36975d6343f23c3e4d8dbdaf5e82f4/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/transforms/ea95cd928dcb747a82e3d52150533632/transformed/core-1.15.0/AndroidManifest.xml:38:13-62

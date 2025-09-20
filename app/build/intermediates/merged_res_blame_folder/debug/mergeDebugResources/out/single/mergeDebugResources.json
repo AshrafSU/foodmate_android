@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_food_logo.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_food_logo.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_dropdown.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_dropdown.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/xml_backup_rules.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_logout.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_logout.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_order_success.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_order_success.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_cart.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_cart.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_delivery.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_delivery.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_cart_tab.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_cart_tab.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/layout_activity_home_screen.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_menu.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/layout_activity_delivery_header.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/layout/activity_delivery_header.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_home.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/xml_data_extraction_rules.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_forward.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_forward.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_favorite.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_favorite.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_time.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_time.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_food_offer.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_food_offer.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_orders.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_orders.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_back.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_contact_us.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_contact_us.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_star.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_star.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_cuisine.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_cuisine.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_xmark.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_xmark.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_shop_banner.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_shop_banner.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_person.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_person.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_dine_in.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_dine_in.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_offers.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_offers.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_remove.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_vector_person.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_vector_person.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/xml_file_paths.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/layout_activity_splash_screen.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/xml_network_security_config.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_payment.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_payment.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/layout_activity_login_screen.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/layout/activity_login_screen.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_notification.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_notification.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_login_bg.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_login_bg.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_policy.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_policy.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_food_img.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/food_img.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.food.foodmate.app-main-86:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_meal.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_meal.png"
+    },
+    {
+        "merged": "com.food.foodmate.app-debug-84:/drawable_ic_map.png.flat",
+        "source": "com.food.foodmate.app-main-86:/drawable/ic_map.png"
+    }
+]

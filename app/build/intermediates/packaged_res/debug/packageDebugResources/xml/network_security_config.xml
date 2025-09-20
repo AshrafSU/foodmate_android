@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">localhost</domain> <!-- Allow local API -->
+        <domain includeSubdomains="true">192.168.0.118</domain> <!-- Allow specific domains --> //home
+        <domain includeSubdomains="true">10.100.201.195</domain> <!-- Allow specific domains --> //iit
+        <domain includeSubdomains="true">10.11.35.105</domain> <!-- Allow specific domains --> //ofc
+
+    </domain-config>
+</network-security-config>
