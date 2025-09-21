@@ -271,7 +271,7 @@ MERGED from [com.google.ar:core:1.15.0] /Users/ashrafulislam/.gradle/caches/8.9/
 	android:usesCleartextTraffic
 		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:39:9-44
 	android:name
-		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:28:9-44
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:28:9-61
 meta-data#com.google.android.geo.API_KEY
 ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:54:9-56:70
 	android:value
@@ -287,7 +287,7 @@ ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/Andr
 	android:theme
 		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:63:13-50
 	android:name
-		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:60:13-50
+		ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:60:13-67
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/ashrafulislam/AndroidStudioProjects/FoodMate/app/src/main/AndroidManifest.xml:64:13-67:29
 action#android.intent.action.MAIN

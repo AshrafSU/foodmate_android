@@ -25,7 +25,7 @@
 
 
     <application
-        android:name=".FoodMateApplication"
+        android:name="com.food.foodmate.FoodMateApplication"
         android:enableOnBackInvokedCallback="true"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -57,7 +57,7 @@
 
 
         <activity
-            android:name=".activity.MainActivity"
+            android:name="com.food.foodmate.activity.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.FoodMate">
